@@ -1,5 +1,5 @@
-import CL_Personas from "./JS/CL_Persona.js";
-import CL_Mayor_Edad from "./JS/CL_Mayor_Edad.js";
+import CL_Personas from "./CL_Persona.js";
+import CL_Mayor_Edad from "./CL_Mayor_Edad.js";
 
 let perso1 = new CL_Personas("Luis", 15);
 let perso2 = new CL_Personas("Ana", 19);
