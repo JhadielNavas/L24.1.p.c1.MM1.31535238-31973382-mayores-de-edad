@@ -32,4 +32,4 @@ let salida = document.getElementById("salida");
 
 salida.innerHTML += "<br> La cantidad de personas es: " +Mayor_Edad.reporte_Contador();
 salida.innerHTML += "<br> La cantidad de personas mayores de edad es: " +Mayor_Edad.reporte_Contador_M();
-salida.innerHTML += "<br> El prcoentaje de personas mayores de edad es : " +Mayor_Edad.calcularPorcentaje();"%"
+salida.innerHTML += "<br> El prcoentaje de personas mayores de edad es : " +Mayor_Edad.calcularPorcentaje();
