@@ -20,7 +20,7 @@ export default class CL_Mayor_Edad {
 
     }
     calcularPorcentaje(){
-        return (this.cont_P_M * 100)/ this.cont_P.toFixed(2);
+        return ((this.cont_P_M * 100)/ this.cont_P).toFixed(2);
     }
     reporte_Contador(){
         return this.cont_P;
